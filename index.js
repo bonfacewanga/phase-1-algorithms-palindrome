@@ -22,7 +22,7 @@ function isPalindrome(word) {
 */
 
 /*
-  Add written explanation of your solution here
+  The reverse() method takes an array.
 */
 
 // You can run `node index.js` to view these console logs
